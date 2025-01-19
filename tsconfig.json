@@ -3,9 +3,7 @@
 	"include": ["."],
 	"compilerOptions": {
 		"baseUrl": ".",
-		"paths": {
-			"@src/*": ["./src/*"]
-		},
+		"paths": {},
 		"jsx": "react-jsx",
 		/* Visit https://aka.ms/tsconfig to read more about this file */
 
