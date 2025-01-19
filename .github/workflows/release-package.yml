@@ -1,4 +1,4 @@
-name: Node.js Package
+name: '@trunext/react-ui release'
 
 on:
   release:
