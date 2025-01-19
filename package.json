@@ -9,6 +9,9 @@
 	"keywords": [],
 	"author": "Zayar Lin",
 	"license": "ISC",
+	"publishConfig": {
+		"@turnext:registry": "https://npm.pkg.github.com"
+	},
 	"devDependencies": {
 		"@types/react": "^19.0.7",
 		"autoprefixer": "^10.4.20",
@@ -23,7 +26,6 @@
 		"lucide-react": "^0.473.0",
 		"react": "^19.0.0",
 		"tailwind-merge": "^2.6.0",
-		"tailwindcss-animate": "^1.0.7",
-		"ts-lib": "^0.0.5"
+		"tailwindcss-animate": "^1.0.7"
 	}
 }
