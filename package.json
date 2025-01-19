@@ -23,6 +23,7 @@
 		"lucide-react": "^0.473.0",
 		"react": "^19.0.0",
 		"tailwind-merge": "^2.6.0",
-		"tailwindcss-animate": "^1.0.7"
+		"tailwindcss-animate": "^1.0.7",
+		"ts-lib": "^0.0.5"
 	}
 }
